@@ -1,0 +1,10 @@
+Package: Idonelproject
+Type: Package
+Title: Final Project
+Version: 0.1.0
+Author: idonel Louidor  <lonel509@icloud.com>
+Maintainer: Idonel Louidor <lonel509@icloud.com>
+Description: this is package for my final semester project
+License: CCO
+LazyData: true 
+RoxygenNote: 6.1.1
